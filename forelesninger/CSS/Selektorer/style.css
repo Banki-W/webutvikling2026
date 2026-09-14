@@ -23,7 +23,7 @@ article:first-child {
 /* ID-selektor */
 
 #midt-artikkel {
-	background-color: antiquewhite;
+	background-color: rgba(231, 215, 250, 0.381);
 }
 
 /* Klasse-selektor */
